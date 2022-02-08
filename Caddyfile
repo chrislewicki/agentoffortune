@@ -1,0 +1,7 @@
+agentoffortune.gay
+
+encode gzip zstd
+
+try_files {path}.html {path}
+
+file_server
